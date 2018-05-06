@@ -2,7 +2,7 @@
 by Gael Colas and Sylvestre Prabakaran, 2nd year students from the French engineering school CentraleSupélec.
 
  Goal : Realization of robotic feet to perform the "Swing a lady in half illusion.
- A live performance of our system can be seen here: https://www.youtube.com/watch?v=i2_MQekyIXk
+ A live performance of our system can be seen here: https://youtu.be/Erj_JMS8GrE
  
  This is a "projet innovation" project we led in our 2nd year in CentraleSupélec (2016). 
  Our supervisors were Hanane Meliani and Laurent Cabaret from the LISA Lab.
