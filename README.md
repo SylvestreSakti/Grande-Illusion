@@ -9,8 +9,7 @@ by Gael Colas and Sylvestre Prabakaran, 2nd year students from the French engine
  
  This project involved :
   - Arduino : we used an Arduino board to control the robotic feet ;
-  - Motion capture : we used a motion capture software to ;
-  - PCB : we printed a circuit board to compactely gather our electronic components ;
-  - 3D-modeling and printing : we modeled and printed a plastic enveloppe to hide our electronic board.
+  - Motion capture : we used a motion capture software to the movement of real feet. These angle changes were converted to command for the robotic feet ;
+  - 3D-modeling : we used SketchUp to design our mechanic system.
 
 This repository gathers all our code and the files we used in our project. Our final report and presentation is at the root (written in French).
